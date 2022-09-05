@@ -1,0 +1,91 @@
+#oga{
+    width: 100px;
+    height: none;
+    border-width: left;
+    float: left;
+}
+#logo01{
+    color: #f8f0c6;
+
+}
+
+#logo02{
+    color: lightblue;
+}
+
+#logo03{
+    color: #f8f0c6;
+}
+
+#logo04{
+    color: lightblue;
+}
+
+#width{
+    font-size: 33px;
+}
+
+
+#tota{
+    background-color: aliceblue;
+}
+
+#tota02{
+    background-color: lightpink;
+    padding: 2px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+    margin: 0px;
+}
+header nav nav img{
+    width: 70px;
+    border-radius: 50px;
+    position: relative;
+
+}
+header nav nav ul{
+    float: right;
+    position: relative;
+    padding-top: 6px;
+    padding-right: 40px;
+}
+header nav nav ul li{
+    display: inline-block;
+    margin-right: 65px;
+    font-weight: bold;
+}
+header nav{
+    background-color: rgb(250, 205, 120);
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 25px;    
+}
+header nav nav ul li a{
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
